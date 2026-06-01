@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" viewBox="0 0 400 160">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#14181B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1D2428;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#4B39EF" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="160" rx="12" fill="url(#bg)"/>
+  <rect width="400" height="160" rx="12" fill="url(#dots)"/>
+  <rect x="0" y="0" width="4" height="160" rx="2" fill="#4B39EF"/>
+  <circle cx="36" cy="36" r="18" fill="#4B39EF" opacity="0.15"/>
+  <text x="36" y="42" text-anchor="middle" font-size="18">&#x1F4CA;</text>
+  <text x="70" y="32" fill="#4B39EF" font-size="10" font-family="system-ui,sans-serif" font-weight="500">&#xBBF8;&#xB2C8; &#xD504;&#xB85C;&#xC81D;&#xD2B8;</text>
+  <text x="16" y="72" fill="#F2F2F2" font-size="20" font-family="system-ui,sans-serif" font-weight="700">&#xC131;&#xC801;&#xAD00;&#xB9AC; &#xC2DC;&#xC2A4;&#xD15C;</text>
+  <text x="16" y="96" fill="#A3A3A3" font-size="12" font-family="system-ui,sans-serif">&#xD559;&#xC0DD; &#xC131;&#xC801; · &#xCD9C;&#xACB0; · &#xB9AC;&#xD3EC;&#xD2B8; &#xAD00;&#xB9AC;</text>
+  <line x1="16" y1="112" x2="384" y2="112" stroke="#2A3137" stroke-width="1"/>
+  <text x="16" y="138" fill="#4B39EF" font-size="10" font-family="monospace" opacity="0.9">FastAPI</text>
+  <text x="106" y="138" fill="#4B39EF" font-size="10" font-family="monospace" opacity="0.9">PostgreSQL</text>
+  <text x="196" y="138" fill="#4B39EF" font-size="10" font-family="monospace" opacity="0.9">React</text>
+  <text x="386" y="152" text-anchor="end" fill="#4B39EF" font-size="10" font-family="monospace" opacity="0.6">thatshoon.com &#x2192;</text>
+</svg>
