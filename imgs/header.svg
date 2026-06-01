@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
+  <defs>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4B39EF"/>
+      <stop offset="45%" stop-color="#39D2C0"/>
+      <stop offset="100%" stop-color="#EE8B60"/>
+    </linearGradient>
+    <linearGradient id="hbg" x1="0" y1="0" x2="0" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <pattern id="hd" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#4B39EF" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="110" fill="url(#hbg)"/>
+  <rect width="900" height="110" fill="url(#hd)"/>
+  <rect x="0" y="0" width="900" height="3" fill="url(#topbar)"/>
+  <text x="450" y="58" text-anchor="middle" fill="#e6edf3"
+    font-size="38" font-family="-apple-system,'Segoe UI',sans-serif" font-weight="800" letter-spacing="-1">
+    <tspan fill="#4B39EF">Thats</tspan><tspan fill="#39D2C0">Hoon</tspan>
+  </text>
+  <text x="450" y="86" text-anchor="middle" fill="#8b949e"
+    font-size="13" font-family="-apple-system,'Segoe UI',sans-serif" letter-spacing="0.5">
+    ROS2 Engineer &#xB7; Full-Stack Developer &#xB7; AI Developer
+  </text>
+</svg>
