@@ -18,44 +18,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
----
+<br/>
 
-<table>
-  <tr>
-    <td width="33%">
-      <a href="https://thatshoon.com/cobot3">
-        <img src="imgs/cobot3.svg" width="100%" alt="GP 순찰 로봇"/>
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://thatshoon.com/cobot1">
-        <img src="imgs/cobot1.svg" width="100%" alt="주방 자동화 로봇"/>
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://thatshoon.com/cobot2">
-        <img src="imgs/cobot2.svg" width="100%" alt="음성명령 도우미 로봇"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://thatshoon.com/chatbot">
-        <img src="imgs/chatbot.svg" width="100%" alt="AI 챗봇"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://thatshoon.com/grades">
-        <img src="imgs/grades.svg" width="100%" alt="성적관리 시스템"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://thatshoon.com/ros2-recorder">
-        <img src="imgs/ros2.svg" width="100%" alt="로봇팔 녹화 컨트롤러"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://thatshoon.com/cobot3"><img src="imgs/cobot3.svg" width="100%"/></a>
+<a href="https://thatshoon.com/cobot1"><img src="imgs/cobot1.svg" width="100%"/></a>
+<a href="https://thatshoon.com/cobot2"><img src="imgs/cobot2.svg" width="100%"/></a>
+<a href="https://thatshoon.com/chatbot"><img src="imgs/chatbot.svg" width="100%"/></a>
+<a href="https://thatshoon.com/grades"><img src="imgs/grades.svg" width="100%"/></a>
+<a href="https://thatshoon.com/ros2-recorder"><img src="imgs/ros2.svg" width="100%"/></a>
 
 ---
 
